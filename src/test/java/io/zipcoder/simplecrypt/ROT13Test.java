@@ -1,3 +1,6 @@
+package io.zipcoder.simplecrypt;
+
+import io.zipcoder.simplecrypt.ROT13;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
